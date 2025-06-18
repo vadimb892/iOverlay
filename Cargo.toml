@@ -1,0 +1,10 @@
+[workspace]
+
+resolver = "2"
+members = [
+    "iFloat",
+    "iOverlay",
+    "iShape",
+    "iTree",
+    "iKeySort"
+]
