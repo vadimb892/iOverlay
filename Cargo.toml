@@ -6,5 +6,6 @@ members = [
     "iOverlay",
     "iShape",
     "iTree",
-    "iKeySort"
+    "iKeySort",
+    "iTriangle"
 ]
